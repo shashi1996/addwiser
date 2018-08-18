@@ -17,7 +17,7 @@ public class test {
 	
 	@Test
 	public void sumoftwono() {
-		Assert.assertEquals( "7", "6", Add.sum( "4","3" ) ) ;
+		Assert.assertEquals( "8", "6", Add.sum( "5","3" ) ) ;
 	}
 	
 	
